@@ -2,4 +2,4 @@
 The sql dump file at [number_guess.sql](https://github.com/Cappu123/freeCodeCamp_Relational_Databases_Course/blob/main/Build%20a%20Number%20Guessing%20Game/number_guess.sql)</br> and
 The shell script to run the program at [number_guess.sh](https://github.com/Cappu123/freeCodeCamp_Relational_Databases_Course/blob/main/Build%20a%20Number%20Guessing%20Game/number_guess.sh) </br></br>
 
-You can find the instruction at the [instruction.md]() file.
+You can find the instruction at the [instruction.md](https://github.com/Cappu123/freeCodeCamp_Relational_Databases_Course/blob/main/Build%20a%20Number%20Guessing%20Game/instruction.md) file.
